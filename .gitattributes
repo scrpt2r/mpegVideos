@@ -1,1 +1,2 @@
 src/violetsTale.txt filter=lfs diff=lfs merge=lfs -text
+src/scpShortFilm.txt filter=lfs diff=lfs merge=lfs -text
